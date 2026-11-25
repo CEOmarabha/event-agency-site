@@ -1151,6 +1151,8 @@ textarea {
   }
 }
 
-#content {
+#content,
+#waitlist,
+#tiers {
   scroll-margin-top: 5.5rem;
 }

@@ -38,4 +38,7 @@
     Cache-Control = "public, max-age=86400"
 
 # Pretty URLs come from folder/index.html (Netlify serves /plan/ from /plan/index.html).
-# No extra rewrites.
+[[redirects]]
+  from = "/favicon.ico"
+  to = "/favicon.svg"
+  status = 200
