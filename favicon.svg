@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Northlight">
+  <rect width="32" height="32" rx="8" fill="#080807"/>
+  <path fill="#dff25a" d="M16 4.2 18.3 12 26.2 14.4 18.3 16.7 16 24.6 13.7 16.7 5.8 14.4 13.7 12Z"/>
+  <circle cx="23.2" cy="8.2" r="2.3" fill="#ff87ab"/>
+</svg>
